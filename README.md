@@ -1,0 +1,2 @@
+# QServer
+Qostebek Chat Server
